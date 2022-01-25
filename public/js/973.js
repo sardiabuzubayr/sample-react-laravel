@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[973],{973:(e,n,r)=>{r.r(n),r.d(n,{default:()=>a});r(294);var s=r(893);const a=function(){return(0,s.jsx)(s.Fragment,{children:"Ini dashboard"})}}}]);
